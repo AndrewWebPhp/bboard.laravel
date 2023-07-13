@@ -21,6 +21,7 @@ use App\Http\Controllers\HomeController;
 /*
 admin@bboard.com
 admin3333
+1111
 */
 
 Route::get('/', [BbsController::class, 'index'])->name('index');
