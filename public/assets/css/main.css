@@ -1,0 +1,3 @@
+h1 {
+    background: url("/assets/images/logo.jpg") left / auto 100% no-repeat, url("/assets/images/logo.jpg") right / auto 100% no-repeat;
+}
